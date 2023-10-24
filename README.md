@@ -1,4 +1,4 @@
-# Introduction to Programming
+Hussain Ashoor # Introduction to Programming
 
 This repo contains sample program code from the *Introduction to Programming* module. 
 
